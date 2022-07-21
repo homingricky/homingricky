@@ -6,9 +6,9 @@
 
 
 - :chart_with_upwards_trend: Job: Quantitative trader/ developer
-- :blue_book: Bachelor's degree: Risk management
+- :blue_book: Bachelor's degree: Risk Management
 - :green_book: Master's degree: Economics & Finance
-- :pushpin: Topics: Market making, statistical arbitrage
+- :pushpin: Topics: Market Making, Statistical Arbitrage
 - :envelope: E-mail: [rickycheng@genesisblockhk.com](mailto:rickycheng@genesisblockhk.com)
 - :speech_balloon: Telegram: [@GBRICKY](https://t.me/GBRICKY)
 
