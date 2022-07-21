@@ -12,5 +12,5 @@
 - :envelope: E-mail: [rickycheng@genesisblockhk.com](mailto:rickycheng@genesisblockhk.com)
 - :speech_balloon: Telegram: [@GBRICKY](https://t.me/GBRICKY)
 
-<br>
-<hr>
+
+
