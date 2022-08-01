@@ -9,7 +9,7 @@
 - :blue_book: Bachelor's degree: Risk Management
 - :green_book: Master's degree: Economics & Finance
 - :pushpin: Topics: Market Making, Statistical Arbitrage
-- :rocket: 2022 Goal: Javascript & Solidity
+- :rocket: 2022 Goal: React, Javascript, Solidity
 - :envelope: E-mail: [rickycheng@genesisblockhk.com](mailto:rickycheng@genesisblockhk.com)
 - :speech_balloon: Telegram: [@GBRICKY](https://t.me/GBRICKY)
 
