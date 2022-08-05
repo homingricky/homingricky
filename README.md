@@ -10,5 +10,5 @@
 - :green_book: Master's degree: Economics & Finance
 - :pushpin: Topics: Market Making, Statistical Arbitrage
 - :rocket: 2022 Goal: ReactJS, Move, Solidity
-- :envelope: E-mail: [rickycheng@genesisblockhk.com](mailto:rickycheng@genesisblockhk.com)
+- :envelope: E-mail: [homingricky@gmail.com](mailto:homingricky@genesisblockhk.com)
 - :speech_balloon: Telegram: [@GBRICKY](https://t.me/GBRICKY)
