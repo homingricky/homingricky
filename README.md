@@ -11,4 +11,4 @@
 - :pushpin: Topics: HFT Arbitrage, Statistical Arbitrage
 - :rocket: 2022 Goal: Golang, C++, ReactJS
 - :envelope: E-mail: [homingricky@gmail.com](mailto:homingricky@genesisblockhk.com)
-- :speech_balloon: Telegram: [@GBRICKY](https://t.me/GBRICKY)
+- :speech_balloon: Telegram: [@homingricky](https://t.me/homingricky)
