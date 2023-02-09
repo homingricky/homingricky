@@ -9,6 +9,5 @@
 - :blue_book: Bachelor's degree: Risk Management
 - :green_book: Master's degree: Economics & Finance
 - :pushpin: Topics: HFT/ MFT strategies
-- :rocket: 2022 Goal: Golang, C++, ReactJS
 - :envelope: E-mail: [homingricky@gmail.com](mailto:homingricky@genesisblockhk.com)
 - :speech_balloon: Telegram: [@homingricky](https://t.me/homingricky)
