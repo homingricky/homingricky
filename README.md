@@ -6,8 +6,6 @@
 
 
 - :chart_with_upwards_trend: Job: Quantitative Trader
-- :blue_book: Bachelor's degree: Risk Management
-- :green_book: Master's degree: Economics & Finance
 - :pushpin: Topics: HFT/ MFT strategies
 - :envelope: E-mail: [homingricky@gmail.com](mailto:homingricky@genesisblockhk.com)
 - :speech_balloon: Telegram: [@homingricky](https://t.me/homingricky)
